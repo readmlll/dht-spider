@@ -23,3 +23,12 @@ BencodeUtils类
 所在的包
 package top.readm.demo.dhtnetwork.dht.thread;
 
+
+
+
+开启基本的几个线程后抓取info的情况
+![Image text](https://github.com/readmlll/dht-spider/blob/master/img/1111.png)
+
+迅雷验证下可靠的hashinfo
+![Image text](https://github.com/readmlll/dht-spider/blob/master/img/222.png)
+
